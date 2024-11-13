@@ -2,7 +2,7 @@
 
 This repository contains an exploratory data analysis (EDA) and various visualizations of stock prices using a Jupyter Notebook. The analysis includes time series trends, distributions, and relationships in the stock data to help understand historical price movements and patterns.
 
-#Table of Contents:
+Table of Contents:
 
 Overview
 Dataset
